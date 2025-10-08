@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm a Data Scientist with a background in Oceanography 🌊, passionate about translating complex data into meaningful insights. I currently work at **Compas.co.id**, focusing on e-commerce analytics and business intelligence.
+Hi! I'm a Data Scientist with a background in Oceanography 🌊, passionate about translating complex data into meaningful insights. I currently work at **Nusapala Group**, focusing on e-commerce analytics and business intelligence.
 
 - 🔭 Exploring marketing analytics and customer behavior  
 - 📊 Experienced in data visualization and reporting  
